@@ -30,7 +30,7 @@ Issues
 ------
 
 Bugs and Feature requests should be reported in the Issue Queue:
-https://github.com/k-zafar/dc_civicrm_mem/issues
+https://github.com/k-zafar/commerce_civicrm_membership/issues
 
 Credits
 -------
